@@ -6,3 +6,4 @@ Lambda functions for AI-powered photo search.
 - `search-photos.py` - Searches photos using natural language
 
 Deployed automatically via CodePipeline.
+# Updated via CodePipeline
